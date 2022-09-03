@@ -1,3 +1,3 @@
-ResourceGroup = "RG-AKS-JO"
+ResourceGroup = "RG-AKS-AP"
 location      = "East US 2"
-ClusterName   = "Cluster-AKS"
+ClusterName   = "Cluster-AKS-AP"
